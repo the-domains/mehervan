@@ -1,0 +1,28 @@
+name: Mehervan
+favicon: null
+layout_spectrum: 0.3702079229988158
+typography_spectrum: 0.6791386913973838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.995252086315304
+  lightness: 0.19631836377084255
+  saturation: 0.3463684767484665
+  rhythmicContrast: 0.07737717917189002
+purpose: []
